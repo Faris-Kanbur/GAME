@@ -1,0 +1,14 @@
+
+div{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://picsum.photos/800/600?random=2");
+    margin-top: 15%;
+    background-size: cover;
+    
+
+}
